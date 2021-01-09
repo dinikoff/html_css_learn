@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    line-height: 2em;
+}
+
+h1,
+h2 {
+    font-family: serif;
+    color: blue;
+}
+
+.red-bold {
+    color: red;
+    font-weight: bold;
+}
+
+.blue-italic {
+    color: blue;
+    font-style: italic;
+}
+
+p{
+    text-align: justify;
+}
+
+.center {
+    text-align: center;
+}
