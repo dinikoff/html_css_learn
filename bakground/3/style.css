@@ -1,0 +1,14 @@
+body {
+    background: url(fon1.jpg) right repeat-y;
+}
+
+p {
+    font-weight: bold;
+    font-size: 90%;
+    text-align: justify;
+    width: 450px;
+}
+
+h1 {
+    font-size: 1.8em;
+}

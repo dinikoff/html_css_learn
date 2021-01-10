@@ -1,0 +1,9 @@
+body {
+    background: url(space.jpg) left top no-repeat;
+    background-color: black;
+    color: white;
+}
+
+p{ text-align: justify; font-size: 20px}
+h1, p{width: 500px; color: white}
+h1{ text-align: center;}
